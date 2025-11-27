@@ -1,50 +1,47 @@
+@SassCopenHagen
+════════════════════════════════════════
+https://img.icons8.com/pastel-glyph/100/felt-hat--v1.png
 
-# SassCopenhagen
+Anonymous Elite BlackHat | Zero-Day Architect | Shadow Operator
+https://img.shields.io/badge/STATUS-UNTRACEABLE-00ff88?style=for-the-badge&logo=hackthebox&logoColor=black
 
-![Hacker](https://img.shields.io/badge/Hacker-💻-black?style=for-the-badge&logo=hackthebox) ![Programmer](https://img.shields.io/badge/Programmer-💻-blue?style=for-the-badge&logo=code) ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-🚀-green?style=for-the-badge&logo=git) ![UI/UX Designer](https://img.shields.io/badge/UI%2FUX%20Designer-🎨-purple?style=for-the-badge&logo=figma)
+BlackHat Legend · Framework Creator · 25 Languages Master
+No name. No age. No country. Only code and shadows.
 
-Hey there! I'm SassCopenhagen – a mysterious tech enthusiast who fiercely guards their privacy and keeps personal details under wraps. My passion lies in diving deep into the world of coding, cybersecurity, and crafting innovative tools. Below, you'll find my interests, skills, and hardware setup, all presented in a sleek, minimalist style. 😎🔒
+WHOAMI
+https://i.imgur.com/2f8k1mZ.jpeg
+Elite blackhat | zero-day exploits | stealth frameworks
+UI/UX god — Figma · Adobe · Blender · C4D · AE
 
-## Interests 🚀
-- **Hacking** 🔒: I explore security vulnerabilities and develop exploits (including near-0-day ones) for educational and research purposes only.
-- **Programming** 💻: I code complex applications and build custom frameworks and tools.
-- **Software Engineering** 🛠️: I design scalable software systems with a focus on performance and reliability.
-- **UI/UX Design** 🎨: I create intuitive user interfaces, prioritizing exceptional user experiences.
+25 LANGUAGES MASTERED
+https://skillicons.dev/icons?i=python,cs,c,cpp,go,rust,java,js,ts,php,ruby,bash,powershell,haskell,lua,kotlin,swift,dart,r,scala,elixir,clojure,nim,zig,assembly&perline=12&theme=dark
 
-## Programming Languages 🧑‍💻
-I’m proficient in over 25 programming languages! Here are some of my favorites:
-- Python 🐍 (go-to for rapid prototyping)
-- Ruby 💎 (elegant and efficient)
-- Rust 🦀 (secure and modern)
-- Assembly (ASM) 🔧 (for low-level hacking)
-- And many more: C++, Java, JavaScript, Go, Swift, etc.
+IDEs & TOOLS
+https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,intellij,sublime,vim&theme=dark
 
-I love experimenting with new languages and creating my own exploits and frameworks.
+OPERATING SYSTEMS
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg
 
-## Tools & Technologies 🛡️
-Here’s my toolkit for daily work:
-- **Code Editors**: VSCode 📝 (primary), Xcode 🍏 (for iOS/macOS)
-- **Databases**: SQL 🗄️, Oracle, MySQL, PostgreSQL (and other relational/NoSQL databases)
-- **Containerization & Orchestration**: Docker 🐳, Kubernetes ☸️
-- **UI/UX Tools**: Figma 🖼️ (for prototyping), Photoshop 🖌️ (for graphic editing)
-- **Other**: Git 📚, CI/CD pipelines (Jenkins/GitHub Actions), security analyzers, and debuggers.
+BATTLESTATION 2025
+MacBook Pro M4 Max — 128 GB · 8 TB · 48-core GPU
+https://i.imgur.com/Xx9vP3m.jpeg
+Main Rig — Ryzen 9 7950X3D · RTX 4090 Ti · 64 GB DDR5 · Custom loop
+https://i.imgur.com/Y7gH2kL.jpeg
 
-## Operating Systems 💻
-I work across multiple OSes, tailored to specific projects:
-- macOS 🍎 (primary OS for development and design)
-- Windows 10 🪟 (for compatibility testing and gaming)
-- Arch Linux 🐧 (for advanced hacking, customization, and server tasks)
+CONNECT
+https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88
+https://github.com/SassCopenHagen
 
-## My Workstation 🖥️
-Here’s my high-end hardware setup, optimized for programming, hacking, and design. Everything is configured for maximum performance and ergonomics. 💪
+https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+TWOJ_ID (DM open only for elite)
 
-| Hardware | Description | Icon |
-|----------|-------------|------|
-| **Main PC** | RTX 5090 GPU, 64GB RAM, AMD Ryzen 9 CPU, High-end motherboard (details TBD), Storage: 4TB SSD + 8TB HDD | 🖥️ |
-| **MacBook Pro 2025** | Latest model with M-series chip, perfect for mobile coding and design | 🍏 |
-| **Laptop (Arch Linux)** | Lenovo Legion Pro – a powerful gaming laptop configured for Arch Linux for testing and hacking | 💻 |
-| **Keyboard** | Logitech G Pro X 60 Lightspeed (Black) – compact, wireless, with custom switches | ⌨️ |
-| **Mouse** | Logitech PRO X SUPERLIGHT 2 – ultra-lightweight, precise, wireless | 🖱️ |
-| **Headphones** | Logitech G535 LIGHTSPEED – comfortable, wireless with long battery life (corrected from G522) | 🎧 |
-| **Microphone** | Shure SM7B (~$400) with arm mount – a streamer’s go-to mic for professional-grade audio | 🎙️ |
----
+SUPPORT THE SHADOWS
+ETH → 0x71C7656EC7ab88b098defB751B7401B5f6d8976F
+BTC → bc1qxy2kgdygjrsqtzel3p2c9j3d5g5k7q8z8z8z8z
+
+https://i.imgur.com/8Qz9vR1.gif
+© 2025 @SassCopenHagen — Anonymous. Untraceable. Legendary.
+Enter the void. Stay in the shadows.
